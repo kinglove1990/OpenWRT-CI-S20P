@@ -1,5 +1,5 @@
 #CI项目
-name: CWRT-ALL
+name: OpenWRT-S20P
 
 #CI计划
 on:
